@@ -6,7 +6,7 @@ from fastapi.responses import JSONResponse
 app = FastAPI()
 
 CHATANYWHERE_URL = "https://api.chatanywhere.tech/v1/chat/completions"
-CHATANYWHERE_API_KEY = os.getenv("CHATANYWHERE_API_KEY")
+CHATANYWHERE_API_KEY = os.getenv("sk-sRcjuojZqugywcfj8IY8qBgGZgEr7KWNVydiZt5QMCAY2xuf")
 
 ACCESS_KEY = "dark"
 
