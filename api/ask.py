@@ -109,7 +109,7 @@ async def ask_ai(
     }
 
     payload = {
-        "model": "gpt-3.5-turbo",
+        "model": "gpt-4o-mini-ca",
         "messages": messages,
         "temperature": 0.5,
         "max_tokens": 220
