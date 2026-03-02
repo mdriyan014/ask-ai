@@ -7,7 +7,7 @@ app = FastAPI()
 
 # ================= CONFIG =================
 CHATANYWHERE_URL = "https://api.chatanywhere.tech/v1/chat/completions"
-CHATANYWHERE_API_KEY = "YOUR_CHATANYWHERE_API_KEY"
+CHATANYWHERE_API_KEY = "CHATANYWHERE_API_KEY"
 
 ACCESS_KEY = "dark"
 OWNER_UID = "13577606265"
