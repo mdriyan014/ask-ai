@@ -7,7 +7,7 @@ import re
 app = FastAPI()
 
 # 🔑 তোমার আসল key বসাও
-API_KEY = "PASTE_YOUR_KEY_HERE"
+API_KEY = "sk-sRcjuojZqugywcfj8IY8qBgGZgEr7KWNVydiZt5QMCAY2xuf"
 
 CHATANYWHERE_URL = "https://api.chatanywhere.tech/v1/chat/completions"
 ACCESS_KEY = "dark"
